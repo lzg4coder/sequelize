@@ -63,7 +63,7 @@
     "pg-native": "^3.0.0",
     "pg-types": "^1.x",
     "rimraf": "^2.x",
-    "semantic-release": "^15.x",
+    "semantic-release": "^15.4.1",
     "sinon": "^4.x",
     "sinon-chai": "^2.x",
     "sqlite3": "^4.x",
